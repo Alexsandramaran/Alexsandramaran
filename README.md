@@ -1,7 +1,5 @@
 ## Olá, sou a Alexsandra, e estou estudando programação e tecnologia!
 
-##
-
 💚 Estudando Programação e Tecnologia
 
 🎓 Graduação em Pedagogia - AFARP Ribeirão Preto
